@@ -5,5 +5,7 @@ In numerical linear algebra, the Gauss–Seidel method, also known as the Liebma
 
 References:
 http://math.semestr.ru/optim/methodzeidel.php
+
 http://en.wikipedia.org/wiki/Gauss–Seidel_method
+
 http://ru.wikipedia.org/wiki/Метод_Гаусса_—_Зейделя
